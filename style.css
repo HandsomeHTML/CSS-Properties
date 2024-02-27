@@ -1,0 +1,61 @@
+body {
+    background-color: #12372A;
+}
+
+h1 {
+    font-family: "Micro 5", sans-serif;
+    font-size: 85pt;
+    font-weight: bold;
+    color: pink;
+    text-align: center;
+    
+}
+
+h1:hover {
+    color:white;
+    background-color: black;
+    transition-duration: 4s;
+}
+
+
+p {
+    font-size: 19pt;
+}
+
+
+.first-p {
+    text-align: left;
+    font-weight: 400;
+    color: red;
+    font-family: "Jacquarda Bastarda 9", serif;
+}  
+
+.first-p:hover {
+    color:blue;
+    background-color: white;
+    transition-duration: 2s;
+}
+
+
+.second-p {
+    color:white;
+    font-family: "Caveat", cursive;
+    text-align: right;
+}
+
+.second-p:hover {
+    transition-duration: 2s;
+    background-color: aqua;
+    color:black;
+}
+
+.third-p {
+    text-align: center;
+    color: #637A9F;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+#third-para {
+    font-size: 4rem;
+}
